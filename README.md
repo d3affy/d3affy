@@ -14,6 +14,13 @@ Our team won **Most Commercially Promising** at the Pond hackathon. [Pond’s an
 
 [![Watch the Lancerium product demo on YouTube](assets/lancerium-demo.jpg)](https://youtu.be/8izlhSf17vg)
 
+## Public repositories
+
+| Project | Try it locally |
+| --- | --- |
+| [Laborio Escrow](https://github.com/d3affy/laborio-escrow) · Solidity | Trace a two-milestone freelance agreement in Foundry, from the client's deposit to the freelancer's payout. |
+| [WhaleHunt Microstructure Simulator](https://github.com/d3affy/whalehunt-microstructure-simulator) · Rust | Replay a three-share limit order and inspect the two trades that filled it. |
+
 ## Other systems I've built
 
 | Project | My work |
